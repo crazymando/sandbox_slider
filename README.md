@@ -1,2 +1,2 @@
-# sandbox_slider
+# hero-slider-version
 Created with CodeSandbox
